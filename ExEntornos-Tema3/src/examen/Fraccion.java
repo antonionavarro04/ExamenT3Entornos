@@ -1,6 +1,6 @@
-package fraccion;
+package examen;
 
-import fraccion.Fraccion;
+import examen.Fraccion;
 
 /**
  * Clase que contiene las variables, constructores y métodos necesarios para la creación de una fracción
